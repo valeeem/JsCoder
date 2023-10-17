@@ -9,6 +9,8 @@ function finDeCompra() {
     alert("Gracias por tu compra! Te llegará un mail con tu factura")
 }
 
+
+
 function sumaTotal() {
     let sumaTotalFinal = alert("Tu total de compra es" + " " + precioTotal)
 }
